@@ -24,8 +24,4 @@ export const fetchFromAPI = async (url) => {
   }
 }
 
-// export async function fetchFromAPI(url) {
-//   const response = await fetch(`${BASE_URL}/${url}`, options)
-//   const data = await response.json()
-//   return data
-// }
+
